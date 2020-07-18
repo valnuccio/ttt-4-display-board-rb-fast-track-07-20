@@ -1,4 +1,3 @@
-board_array=["","","","","","","","",""]
 
 def display_board(board)
   puts " #{board_array[0]} | #{board_array[1]} | #{board_array[2]} "
@@ -7,8 +6,6 @@ def display_board(board)
   puts "-----------"
   puts " #{board_array[6]} | #{board_array[7]} | #{board_array[8]} "
 end
-
-display_board(board_array)
 
 
 Define display_board that accepts a board and prints
