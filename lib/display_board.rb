@@ -6,5 +6,4 @@ def display_board(board1)
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 end
 
-a=["x","x","x","x","x","x","x","x","x",]
-display_board(a)
+
