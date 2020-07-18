@@ -8,7 +8,7 @@ def display_board(board)
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 end
 
-display_board("board_array")
+display_board(board_array)
 
 
 Define display_board that accepts a board and prints
