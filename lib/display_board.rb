@@ -1,4 +1,4 @@
-board_array="["","","","","","","","",""]"
+board_array=["","","","","","","","",""]
 
 def display_board(board)
   puts " #{board_array[0]} | #{board_array[1]} | #{board_array[2]} "
