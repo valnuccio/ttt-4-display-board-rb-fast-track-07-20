@@ -1,7 +1,7 @@
 board_array=["","","","","","","","",""]
 
 def board (board)
-  puts board_array[0]|board_array[1]|board_array[2]
+  puts #{board_array[0]}|#{board_array[1]}|#{board_array[2]}
   puts "-----------"
   puts "#{board_array[3]}|#{board_array[4]}|#{board_array[5]}"
   puts "-----------"
